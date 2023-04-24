@@ -1,3 +1,33 @@
 .intro{
-  background-color: green;
+  background-color: white;
+  display: flex;
+
+  .left{
+    flex:0.5;
+    overflow: hidden;
+    
+    .imgContainer{
+      
+      width: 700px;
+      height: 700px;
+      overflow: hidden;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: white;
+
+      img{
+        height: 100%;
+        border-radius: 20%;
+      }
+
+  }
+
+  .right{
+    flex:0.5;
+  
+  }
+
+}
 }
