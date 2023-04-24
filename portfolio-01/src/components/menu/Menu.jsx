@@ -2,7 +2,7 @@ import React from 'react'
 import './Menu.scss'
 function Menu() {
   return (
-    <div className='menu' >Menu</div>
+    <div className='menu' id='menu' >Menu</div>
   )
 }
 
