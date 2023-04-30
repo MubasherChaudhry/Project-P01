@@ -11,7 +11,7 @@ export default function Works() {
       desc:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
       img:
-        "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
+        "https://c1.wallpaperflare.com/preview/354/824/37/adult-education-leave-know-power.jpg",
     },
     {
       id: "2",

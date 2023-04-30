@@ -1,7 +1,7 @@
 @import "../../Global.scss";
 
 .contact {
-  background-color: white;
+  background-color: $mainColor;
   display: flex;
 
   @include mobile {
