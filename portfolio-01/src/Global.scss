@@ -1,1 +1,9 @@
-$mainColor: magenta;
+$mainColor: #5507f0;
+
+$width: 768px;
+
+@mixin mobile {
+    @media (max-width: #{$width}){
+        @content
+    }
+}
